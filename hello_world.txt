@@ -1,2 +1,2 @@
 Hello, world!
-I'm learining webev thanks to Odin!
+I'm learining webdev thanks to The Odin project!
