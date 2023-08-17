@@ -1,4 +1,3 @@
 # git-test
 My first github repo!
-With the help of Odin!
-Petit test
+I'm learning how to use git with the help of The Odin project.
